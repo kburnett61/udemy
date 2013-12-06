@@ -3,6 +3,10 @@ package com.seleniumsimplified.webdriver;
 import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.ie.*;
+
+import java.io.File;
+import java.util.Dictionary;
 
 /**
  * Created with IntelliJ IDEA.
@@ -13,6 +17,8 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
  */
 public class Chapter6IETesting {
 
+    File file;
+    Dictionary dictionary;
     WebDriver driver;
 
     @Before

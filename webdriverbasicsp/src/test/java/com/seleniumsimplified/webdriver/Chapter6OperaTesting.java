@@ -2,7 +2,8 @@ package com.seleniumsimplified.webdriver;
 
 import org.junit.*;
 import org.openqa.selenium.*;
-import org.openqa.selenium.firefox.*;
+import com.opera.core.systems.OperaDriver;
+import com.opera.core.systems.OperaProfile;
 
 import java.io.File;
 import java.util.Dictionary;
@@ -16,11 +17,13 @@ import java.util.Dictionary;
  */
 public class Chapter6OperaTesting {
 
-    /* WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUP(){
-        driver = new OperaDriver();
+        OperaProfile profile = new OperaProfile();
+        profile.preferences().set("Geolocation", "Enable geolocation", false);
+        driver = new OperaDriver(profile);
         driver.get("http://book.theautomatedtester.co.uk/");
     }
 
@@ -31,10 +34,10 @@ public class Chapter6OperaTesting {
 
     @Test
     public void testExamples(){
-        WebElement element = driver.findElement(By.linkText("Chapter 4"));
+        WebElement element = driver.findElement(By.linkText("Chapter4"));
         element.click();
 
         //Assert that we only have 1 link
-        Assert.assertEquals(1, driver.findElements(By.linkText("index")).size());
+        Assert.assertEquals(0, driver.findElements(By.linkText("index")).size());
     } */
 }

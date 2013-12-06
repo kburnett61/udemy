@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53bb6a69-d424-4d25-bc51-4b2640c096be" name="Default" comment="" />
+    <list default="true" id="53bb6a69-d424-4d25-bc51-4b2640c096be" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\udemy\webdriverbasicsp\.idea\libraries\Maven__com_google_guava_guava_15_0.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webdriverbasicsp.iml" afterPath="$PROJECT_DIR$/webdriverbasicsp.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="webdriverbasicsp.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/AppTest.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1385430100917" ignored="false" />
@@ -10,8 +18,10 @@
     <file path="/Chapter6Test.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386179881757" ignored="false" />
     <file path="/Chapter6FirefoxAddon.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386186218442" ignored="false" />
     <file path="/Chapter6ChromeTesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386190454779" ignored="false" />
-    <file path="/Chapter6OperaTesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386195600412" ignored="false" />
-    <file path="/Chapter6IETesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386271799355" ignored="false" />
+    <file path="/Chapter6OperaTesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386284777924" ignored="false" />
+    <file path="/Chapter6IETesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386285599438" ignored="false" />
+    <file path="/pom.xml" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386283690650" ignored="false" />
+    <file path="/Dummy.txt" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386288856834" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +94,7 @@
       <file leaf-file-name="Chapter6ChromeTesting.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="10" selection-start="339" selection-end="953" vertical-scroll-proportion="0.0">
+            <state line="19" column="101" selection-start="403" selection-end="496" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -102,7 +112,7 @@
       <file leaf-file-name="Chapter6OperaTesting.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="8" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
+            <state line="41" column="8" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,7 +123,7 @@
       <file leaf-file-name="Chapter6IETesting.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="97" selection-start="303" selection-end="303" vertical-scroll-proportion="0.10559006">
+            <state line="25" column="90" selection-start="614" selection-end="614" vertical-scroll-proportion="0.8100437">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -124,7 +134,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="19" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+            <state line="23" column="46" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -137,16 +147,25 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/AppTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter5Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6FirefoxAddon.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" />
       </list>
@@ -195,7 +214,7 @@
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -298,6 +317,7 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="C:/" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
@@ -359,6 +379,34 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.seleniumsimplified.webdriver" />
       <option name="MAIN_CLASS_NAME" value="com.seleniumsimplified.webdriver.Chapter6IETesting" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chapter6OperaTesting" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="webdriverbasicsp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.seleniumsimplified.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumsimplified.webdriver.Chapter6OperaTesting" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -491,16 +539,18 @@
       <patterns />
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.FirstTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FirstTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FirstTest" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -509,6 +559,23 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="53bb6a69-d424-4d25-bc51-4b2640c096be" name="Default" comment="" />
@@ -517,9 +584,29 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -528,14 +615,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3263889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3259053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12226512" sideWeight="0.7089136" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12226512" sideWeight="0.67409474" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20785071" sideWeight="0.7089136" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29108635" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20785071" sideWeight="0.67409474" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31476322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -585,7 +672,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Next Check in." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -599,6 +686,7 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Next Check in." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -643,22 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="10" selection-start="339" selection-end="953" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="8" selection-start="886" selection-end="886" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
@@ -691,8 +763,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="0" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.25">
           <folding>
-            <element signature="e#1317#1512#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
+            <element signature="e#1317#1512#0" expanded="false" />
+            <element signature="e#1501#1502#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -711,16 +783,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="101" selection-start="403" selection-end="496" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="19" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0">
+        <state line="23" column="46" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="8" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="97" selection-start="303" selection-end="303" vertical-scroll-proportion="0.10559006">
+        <state line="25" column="90" selection-start="614" selection-end="614" vertical-scroll-proportion="0.8100437">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
