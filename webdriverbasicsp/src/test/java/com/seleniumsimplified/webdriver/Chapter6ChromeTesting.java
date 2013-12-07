@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public class Chapter6ChromeTesting {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -34,5 +34,5 @@ public class Chapter6ChromeTesting {
         String value = element.getAttribute("value");
         Assert.assertEquals("Click to load the select below",
                 value);
-    }
+    }*/
 }

@@ -2,6 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53bb6a69-d424-4d25-bc51-4b2640c096be" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter8SeleniumGrid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter9AdvancedInteractions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mx4j_mx4j_tools_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_48.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_48.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mortbay_jetty_servlet_api_2_5_6_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_jetty_repacked_7_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_server_2_37_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_8.xml" />
+      <change type="MOVED" beforePath="C:\udemy\webdriverbasicsp\.idea\libraries\Maven__commons_codec_commons_codec_1_8.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" afterPath="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webdriverbasicsp.iml" afterPath="$PROJECT_DIR$/webdriverbasicsp.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="webdriverbasicsp.iws" />
@@ -14,8 +29,10 @@
     <file path="/Chapter6ChromeTesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386190454779" ignored="false" />
     <file path="/Chapter6OperaTesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386284777924" ignored="false" />
     <file path="/Chapter6IETesting.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386285599438" ignored="false" />
-    <file path="/pom.xml" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386283690650" ignored="false" />
-    <file path="/Dummy.txt" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386288897649" ignored="false" />
+    <file path="/pom.xml" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386363568350" ignored="false" />
+    <file path="/Dummy.txt" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386344878073" ignored="false" />
+    <file path="/Chapter8SeleniumGrid.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386357824860" ignored="false" />
+    <file path="/Chapter9AdvancedInteractions.java" changelist="53bb6a69-d424-4d25-bc51-4b2640c096be" time="1386372213130" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +47,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -66,7 +84,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -88,8 +105,21 @@
       <file leaf-file-name="Chapter6ChromeTesting.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="101" selection-start="403" selection-end="496" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="32" column="69" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter9AdvancedInteractions.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter9AdvancedInteractions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="53" selection-start="870" selection-end="870" vertical-scroll-proportion="0.4573991">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -107,6 +137,15 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="41" column="8" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Chapter6IETesting.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="7" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -114,12 +153,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter6IETesting.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java">
+      <file leaf-file-name="Chapter8SeleniumGrid.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter8SeleniumGrid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="90" selection-start="614" selection-end="614" vertical-scroll-proportion="0.8118162">
+            <state line="43" column="7" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DesiredCapabilities.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.37.1/selenium-api-2.37.1-sources.jar!/org/openqa/selenium/remote/DesiredCapabilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="111" column="14" selection-start="3508" selection-end="3508" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#7700#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1235#1262#0" expanded="false" />
+                <element signature="e#1398#1414#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -128,7 +181,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="46" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
+            <state line="28" column="51" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -158,10 +211,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter5Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6Test.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6FirefoxAddon.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter8SeleniumGrid.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter9AdvancedInteractions.java" />
       </list>
     </option>
   </component>
@@ -184,6 +239,10 @@
         <PATH_ELEMENT>
           <option name="myItemId" value="webdriverbasicsp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
         </PATH_ELEMENT>
       </PATH>
       <PATH>
@@ -234,7 +293,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -304,43 +362,22 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="C:/" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
-  <component name="RunManager" selected="JUnit.Chapter6IETesting">
-    <configuration default="false" name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="webdriverbasicsp" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.seleniumsimplified.webdriver" />
-      <option name="MAIN_CLASS_NAME" value="com.seleniumsimplified.webdriver.FirstTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.Chapter9AdvancedInteractions">
     <configuration default="false" name="Chapter6ChromeTesting" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="webdriverbasicsp" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -423,6 +460,50 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Chapter8SeleniumGrid" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="webdriverbasicsp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.seleniumsimplified.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumsimplified.webdriver.Chapter8SeleniumGrid" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Chapter9AdvancedInteractions" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="webdriverbasicsp" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.seleniumsimplified.webdriver" />
+      <option name="MAIN_CLASS_NAME" value="com.seleniumsimplified.webdriver.Chapter9AdvancedInteractions" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -459,6 +540,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -484,19 +578,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -533,18 +614,20 @@
       <patterns />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FirstTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Chapter8SeleniumGrid" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Chapter9AdvancedInteractions" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FirstTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Chapter9AdvancedInteractions" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Chapter6IETesting" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Chapter8SeleniumGrid" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Chapter6OperaTesting" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Chapter6ChromeTesting" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -605,7 +688,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1592" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -614,14 +697,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39972144" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32729805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3286908" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12226512" sideWeight="0.67270195" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1936937" sideWeight="0.68662953" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20785071" sideWeight="0.67270195" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31476322" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20785071" sideWeight="0.68662953" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31337047" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -695,27 +778,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.37.1/selenium-api-2.37.1-sources.jar!/org/openqa/selenium/WebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="7" selection-start="2842" selection-end="2842" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/FirstTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="8" selection-start="849" selection-end="849" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-firefox-driver/2.37.1/selenium-firefox-driver-2.37.1-sources.jar!/org/openqa/selenium/firefox/FirefoxProfile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="184" column="14" selection-start="6191" selection-end="6191" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter5Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="122" column="7" selection-start="3833" selection-end="3833" vertical-scroll-proportion="0.0">
@@ -732,40 +794,27 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="0" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="0" selection-start="1947" selection-end="1947" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="774" selection-end="774" vertical-scroll-proportion="0.3767821">
-          <folding />
-        </state>
+        <state line="28" column="0" selection-start="774" selection-end="774" vertical-scroll-proportion="0.3767821" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/internal/runners/statements/RunBefores.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.6640625">
-          <folding />
-        </state>
+        <state line="23" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.6640625" />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.25">
-          <folding>
-            <element signature="e#1317#1512#0" expanded="false" />
-            <element signature="e#1501#1502#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="43" column="0" selection-start="1302" selection-end="1302" vertical-scroll-proportion="0.25" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6Test.java">
@@ -777,37 +826,65 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/org/junit/runners/ParentRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="0" selection-start="2578" selection-end="2578" vertical-scroll-proportion="0.3319149">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="101" selection-start="403" selection-end="496" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="46" selection-start="928" selection-end="928" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="63" column="0" selection-start="2578" selection-end="2578" vertical-scroll-proportion="0.3319149" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6OperaTesting.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="8" selection-start="1070" selection-end="1070" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.37.1/selenium-api-2.37.1-sources.jar!/org/openqa/selenium/remote/DesiredCapabilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="111" column="14" selection-start="3508" selection-end="3508" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#7700#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1235#1262#0" expanded="false" />
+            <element signature="e#1398#1414#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter8SeleniumGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="7" selection-start="1115" selection-end="1115" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6ChromeTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="69" selection-start="809" selection-end="809" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="51" selection-start="1104" selection-end="1104" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter6IETesting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="90" selection-start="614" selection-end="614" vertical-scroll-proportion="0.8118162">
+        <state line="39" column="7" selection-start="984" selection-end="984" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/seleniumsimplified/webdriver/Chapter9AdvancedInteractions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="53" selection-start="870" selection-end="870" vertical-scroll-proportion="0.4573991">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

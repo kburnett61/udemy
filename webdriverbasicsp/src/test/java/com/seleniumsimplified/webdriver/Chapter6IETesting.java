@@ -17,7 +17,7 @@ import java.util.Dictionary;
  */
 public class Chapter6IETesting {
 
-    File file;
+    /*File file;
     Dictionary dictionary;
     WebDriver driver;
 
@@ -37,5 +37,5 @@ public class Chapter6IETesting {
     public void testIEExamples(){
         WebElement element = driver.findElement(By.id("bid"));
         Assert.assertEquals("50", element.getText());
-    }
+    }*/
 }
