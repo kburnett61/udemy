@@ -8,12 +8,16 @@ import org.openqa.selenium.interactions.*;
 /**
  * Created with IntelliJ IDEA.
  * User: STGUser
- * Date: 12/6/13
- * Time: 12:39 PM
+ * Date: 12/9/13
+ * Time: 10:35 AM
  * To change this template use File | Settings | File Templates.
  */
-public class Chapter9AdvancedInteractions {
+public class Chapter9OffsetTesting {
+
+
     /*WebDriver driver;
+
+
 
     @Before
     public void setUp(){
@@ -28,15 +32,12 @@ public class Chapter9AdvancedInteractions {
 
     @Test
     public void testExamples(){
-        WebElement someElement = driver.findElement(By.className("draggable"));
-        WebElement otherElement = driver.findElement(By.className("droppable"));
 
+        WebElement drag = driver.findElement(By.className("draggable"));
         Actions builder = new Actions(driver);
-        Action dragAndDrop = builder.clickAndHold(someElement)
-                .moveToElement(otherElement)
-                .release(otherElement)
-                .build();
 
+        Action dragAndDrop = builder.dragAndDropBy(drag, 10, 20).build();
         dragAndDrop.perform();
+
     }*/
 }
