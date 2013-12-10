@@ -17,7 +17,7 @@ import java.util.*;
  */
 public class Chapter9MultipleItems {
 
-    /*WebDriver driver = new FirefoxDriver();
+    WebDriver driver;
 
     @Before
     public void setUp(){
@@ -27,7 +27,7 @@ public class Chapter9MultipleItems {
 
     @After
     public void tearDown(){
-        driver.quit();
+        //driver.quit();
     }
 
     @Test
@@ -42,5 +42,5 @@ public class Chapter9MultipleItems {
                 .build();
 
         multipleSelect.perform();
-    }*/
+    }
 }
