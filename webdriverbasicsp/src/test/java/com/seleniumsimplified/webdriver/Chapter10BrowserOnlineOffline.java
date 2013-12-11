@@ -5,16 +5,15 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.android.AndroidDriver;
 import org.openqa.selenium.html5.*;
 import org.junit.Assert;
-import org.openqa.selenium.firefox.*;
 
 /**
  * Created with IntelliJ IDEA.
  * User: STGUser
  * Date: 12/10/13
- * Time: 9:53 AM
+ * Time: 5:00 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Chapter10HTML51 {
+public class Chapter10BrowserOnlineOffline {
 
     WebDriver driver;
 
@@ -22,7 +21,7 @@ public class Chapter10HTML51 {
     public void setUp(){
 
         driver = new AndroidDriver();
-        driver.get("http://book.theautomatedtester.co.uk/chapter4");
+        driver.get("http://book.theautomatedtester.co.uk");
     }
 
     @After
@@ -33,8 +32,15 @@ public class Chapter10HTML51 {
 
     @Test
     public void testApplicationCache(){
-        AppCacheStatus status = ((ApplicationCache) driver).getStatus();
-        Assert.assertEquals(status, AppCacheStatus.UNCACHED);
+        Assert.assertTrue(((BrowserConnection) driver).isOnline());
+    }
 
+    @Test
+    public void testTurnOffConnectivity(){
+        BrowserConnection networkAwareDriver = (BrowserConnection)driver;
+        networkAwareDriver.setOnline(false);
+        Assert.assertFalse(networkAwareDriver.isOnline());
+        networkAwareDriver.setOnline(true);
+        Assert.assertFalse(networkAwareDriver.isOnline());
     }
 }

@@ -26,7 +26,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class Chapter5Test {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -38,7 +38,7 @@ public class Chapter5Test {
     @After
     public void tearDown(){
         driver.quit();
-    }
+    }*/
 
     /*@Test
     public void testExamplesFindElementById(){
