@@ -15,7 +15,7 @@ import org.junit.Assert;
  */
 public class Chapter10BrowserOnlineOffline {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -42,5 +42,5 @@ public class Chapter10BrowserOnlineOffline {
         Assert.assertFalse(networkAwareDriver.isOnline());
         networkAwareDriver.setOnline(true);
         Assert.assertFalse(networkAwareDriver.isOnline());
-    }
+    }*/
 }

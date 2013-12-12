@@ -16,7 +16,7 @@ import org.openqa.selenium.*;
  */
 public class Chapter6AndroidTesting {
 
-    WebDriver driver;
+    /*WebDriver driver;
     @Before
     public void setUp(){
         driver = new AndroidDriver();
@@ -30,5 +30,5 @@ public class Chapter6AndroidTesting {
     public void testExamples(){
         WebElement element = driver.findElement(By.id("nextBid"));
         element.sendKeys("100");
-    }
+    }*/
 }

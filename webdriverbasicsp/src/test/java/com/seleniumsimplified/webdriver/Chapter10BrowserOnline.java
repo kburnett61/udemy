@@ -15,7 +15,7 @@ import org.junit.Assert;
  */
 public class Chapter10BrowserOnline {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -33,6 +33,6 @@ public class Chapter10BrowserOnline {
     @Test
     public void testApplicationCache(){
         Assert.assertTrue(((BrowserConnection) driver).isOnline());
-     }
+     }*/
 }
 

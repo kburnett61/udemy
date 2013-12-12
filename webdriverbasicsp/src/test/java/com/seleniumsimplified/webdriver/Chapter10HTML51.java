@@ -16,7 +16,7 @@ import org.openqa.selenium.firefox.*;
  */
 public class Chapter10HTML51 {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -36,5 +36,5 @@ public class Chapter10HTML51 {
         AppCacheStatus status = ((ApplicationCache) driver).getStatus();
         Assert.assertEquals(status, AppCacheStatus.UNCACHED);
 
-    }
+    }*/
 }

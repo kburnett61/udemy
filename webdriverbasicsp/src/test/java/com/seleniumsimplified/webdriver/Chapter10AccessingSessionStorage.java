@@ -15,7 +15,7 @@ import org.junit.Assert;
  */
 public class Chapter10AccessingSessionStorage {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -32,5 +32,5 @@ public class Chapter10AccessingSessionStorage {
     @Test
     public void testShouldReturnCurrentLocalStorageSize(){
         Assert.assertEquals(0, ((SessionStorage) driver).size());
-    }
+    }*/
 }
