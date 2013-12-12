@@ -32,8 +32,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class Chapter11BrowserMobProxy {
 
-    //
-    public void BrowseUsingMobProxy(){
+    /*public void BrowseUsingMobProxy(){
 
         //Start the proxy
         ProxyServer server = new ProxyServer(9876);
@@ -90,5 +89,5 @@ public class Chapter11BrowserMobProxy {
         //Shut down proxy and driver
          server.stop();
          driver.quit();
-    }
+    }*/
 }

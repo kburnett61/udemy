@@ -15,7 +15,7 @@ import java.util.List;
  */
 public class Chapter9MultipleItems {
 
-    WebDriver driver;
+    /*WebDriver driver;
 
     @Before
     public void setUp(){
@@ -44,5 +44,5 @@ public class Chapter9MultipleItems {
                 .build();
 
         multipleSelect.perform();
-    }
+    }*/
 }

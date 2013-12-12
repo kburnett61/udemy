@@ -1,6 +1,6 @@
 package com.seleniumsimplified.webdriver;
 
-import com.sun.deploy.config.WinPlatform;
+//import com.sun.deploy.config.WinPlatform;
 import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.*;
