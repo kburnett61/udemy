@@ -4,9 +4,7 @@ import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.firefox.*;
 import org.openqa.selenium.interactions.*;
-import java.io.File;
-import java.util.Dictionary;
-import java.util.*;
+import java.util.List;
 
 /**
  * Created with IntelliJ IDEA.
@@ -34,8 +32,12 @@ public class Chapter9MultipleItems {
     public void testMultipleItemsExamples(){
 
         Actions builder = new Actions(driver);
-        WebElement select = driver.findElement(By.tagName("select"));
-        List<WebElement> options = select.findElements(By.tagName("options"));
+
+        WebElement select = driver.findElement(By.id("selectWithMultipleEqualsMultiple"));
+
+        //List<WebElement> options = select.findElements(By.tagName("options"));
+        List<WebElement> options = select.findElements(By.tagName("option"));
+
         Action multipleSelect = builder.keyDown(Keys.SHIFT)
                 .click(options.get(0))
                 .click(options.get(2))
